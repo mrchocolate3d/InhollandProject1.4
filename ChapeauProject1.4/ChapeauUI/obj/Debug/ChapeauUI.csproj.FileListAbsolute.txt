@@ -1,0 +1,9 @@
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauUI\obj\Debug\ChapeauUI.csprojAssemblyReference.cache
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauUI\obj\Debug\ChapeauUI.pdb

@@ -1,0 +1,7 @@
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauDAL\bin\Debug\ChapeauDAL.exe.config
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauDAL\bin\Debug\ChapeauDAL.exe
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauDAL\bin\Debug\ChapeauDAL.pdb
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauDAL\obj\Debug\ChapeauDAL.csprojAssemblyReference.cache
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauDAL\obj\Debug\ChapeauDAL.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauDAL\obj\Debug\ChapeauDAL.exe
+C:\Users\Seyi\Desktop\InhollandProject1.4\ChapeauProject1.4\ChapeauDAL\obj\Debug\ChapeauDAL.pdb
